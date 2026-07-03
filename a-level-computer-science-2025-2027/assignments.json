@@ -1,4 +1,19 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "testassignment2",
+      "name": "testassignment2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "due": "2026-07-03T13:52:00Z",
+      "due_meta": {
+        "input": "2026-07-03T14:52:00",
+        "zone": "Europe/London",
+        "offset": "+01:00",
+        "source": "auto-detected"
+      }
+    }
+  ]
 }
