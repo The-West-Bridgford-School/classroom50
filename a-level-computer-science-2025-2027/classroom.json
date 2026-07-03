@@ -1,0 +1,22 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "A-Level Computer Science 2025-2027",
+  "short_name": "a-level-computer-science-2025-2027",
+  "term": "",
+  "org": "The-West-Bridgford-School",
+  "team": {
+    "id": 18319712,
+    "slug": "classroom50-a-level-computer-science-2025-2027"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18319713,
+      "slug": "classroom50-a-level-computer-science-2025-2027-instructor"
+    },
+    "ta": {
+      "id": 18319714,
+      "slug": "classroom50-a-level-computer-science-2025-2027-ta"
+    }
+  },
+  "secret": "8v1ibr2s"
+}
